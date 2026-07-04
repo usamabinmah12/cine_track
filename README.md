@@ -5,8 +5,8 @@ CineTrack is a modern, responsive, frontend-only movie watchlist management appl
 ---
 
 ## 🚀 Live Demo & Repository
-* **Vercel Deployment URL:** [Insert Your Live Vercel Link Here]
-* **GitHub Repository:** [Insert Your GitHub Repo Link Here]
+* **Vercel Deployment URL:** https://cine-track-phi.vercel.app/
+* **GitHub Repository:** https://github.com/usamabinmah12/cine_track
 
 ---
 
